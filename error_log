@@ -1,0 +1,2 @@
+[20-Jun-2019 08:36:00 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/tminfotech/demosrvr.com/wp/theimpossibleco/wp-content/themes/theimpossibleco/index.php on line 17
+[20-Jun-2019 23:34:45 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/tminfotech/demosrvr.com/wp/theimpossibleco/wp-content/themes/theimpossibleco/index.php on line 17
